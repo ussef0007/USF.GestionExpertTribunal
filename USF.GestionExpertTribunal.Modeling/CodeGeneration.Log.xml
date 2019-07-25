@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="ProjectPath = ..\USF.GestionExpertTribunal.Entities\USF.GestionExpertTribunal.Entities.csproj" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="TargetDirectory = Models\{PackageStructure}" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="TemplateFilePath = .\Templates\ClassTemplate.t4" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Modeling\Templates\ClassTemplate.t4" />
+  <Message Timestamp="2019-07-25T20:19:31" Importance="Medium" Text="USF.GestionExpertTribunal.Modeling's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'USF.GestionExpertTribunal.Modeling::Expert' -  (Class), 'USF.GestionExpertTribunal.Modeling::ExpertDossierLines' -  (Class), 'USF.GestionExpertTribunal.Modeling::Dossier' -  (Class), 'USF.GestionExpertTribunal.Modeling::Demande' -  (Class), 'USF.GestionExpertTribunal.Modeling::Mission' -  (Class), 'USF.GestionExpertTribunal.Modeling::Portail' -  (Class), 'USF.GestionExpertTribunal.Modeling::TypeDemande' -  (Class), 'USF.GestionExpertTribunal.Modeling::Greffier' -  (Class) " />
+  <Message Timestamp="2019-07-25T20:19:32" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Expert' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Expert.cs" />
+  <Message Timestamp="2019-07-25T20:19:32" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::ExpertDossierLines' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\ExpertDossierLines.cs" />
+  <Message Timestamp="2019-07-25T20:19:32" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Dossier' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Dossier.cs" />
+  <Message Timestamp="2019-07-25T20:19:32" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Demande' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Demande.cs" />
+  <Message Timestamp="2019-07-25T20:19:32" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Mission' -  (Class) : success (file created) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Mission.cs" />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Portail' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Portail.cs" />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::TypeDemande' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\TypeDemande.cs" />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Medium" Text="'USF.GestionExpertTribunal.Modeling::Greffier' -  (Class) : success (file replaced) - D:\Projects\Prj.Net\USF.GestionExpertTribunal\USF.GestionExpertTribunal\USF.GestionExpertTribunal.Entities\Models\Greffier.cs" />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="The selection included 8 elements which were not bound to a template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="Diagnostic" Text="'USF.GestionExpertTribunal.Modeling::' -  (Association): no bound template." />
+  <Message Timestamp="2019-07-25T20:19:33" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
